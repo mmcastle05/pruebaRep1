@@ -25,6 +25,9 @@ public class Date {
    *
    * @return The day of the month (1-31).
    */
+  public void mbappe(){
+    System.out.println("holamami");
+  }
   public int getDay() {
     return day;
   }
